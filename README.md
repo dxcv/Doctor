@@ -141,6 +141,8 @@
 
 像风一样（yster@foxmail.com）
 
+博客：[http://www.yueshutong.cn](http://www.yueshutong.cn)
+
 Github：[https://github.com/yueshutong/Doctor](https://github.com/yueshutong/Doctor)
 
 Gitee：[https://gitee.com/zyzpp/Doctor](https://gitee.com/zyzpp/Doctor)
