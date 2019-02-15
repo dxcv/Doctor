@@ -146,3 +146,5 @@
 Github：[https://github.com/yueshutong/Doctor](https://github.com/yueshutong/Doctor)
 
 Gitee：[https://gitee.com/zyzpp/Doctor](https://gitee.com/zyzpp/Doctor)
+
+交流QQ群：781927207
