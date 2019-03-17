@@ -131,7 +131,7 @@
 
 ## 获奖荣誉
 
-[山东省大学生软件大赛一等奖](https://www.softqilu.com/show-3-1920.htm)
+[山东省大学生软件设计大赛一等奖](https://www.softqilu.com/show-3-1920.htm)
 
 [山东省大学生移动互联创新创业大赛二等奖](http://www.mobileint.org/news-show-89.html)
 
