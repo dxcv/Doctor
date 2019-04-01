@@ -149,4 +149,4 @@ Gitee：[https://gitee.com/zyzpp/Doctor](https://gitee.com/zyzpp/Doctor)
 
 交流QQ群：781927207
 
-<img src="./JavaMonitor/picture/赞赏码.png" width="300px">
+<img src="./picture/赞赏码.png" width="300px">
