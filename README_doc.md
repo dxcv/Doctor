@@ -141,7 +141,7 @@
 
 像风一样（yster@foxmail.com）
 
-博客：[http://www.yueshutong.cn](http://www.yueshutong.cn)
+博客：<https://yueshutong.cnblogs.com/>
 
 Github：[https://github.com/yueshutong/Doctor](https://github.com/yueshutong/Doctor)
 
